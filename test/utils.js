@@ -13,7 +13,6 @@ module.exports = Object.freeze({
     `components/message`,
     `components/modal`,
     `components/navbar`,
-    `components/toolbar`,
     `components/pagination`,
     `components/panel`,
     `components/tabs`,
